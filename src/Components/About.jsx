@@ -1,4 +1,4 @@
-import UserProfile from "../assets/Images/UserProfile.svg";
+import UserProfile from "../assets/Images/userprofile.svg";
 import Progress from "./Progress.jsx";
 const About = () => {
   return (

@@ -1,4 +1,4 @@
-import UserProfile from "../assets/Images/UserProfile.svg";
+import UserProfile from "../assets/Images/userprofile.svg";
 import SocialIcons from "./SocialIcons.jsx";
 import Button from "./Button.jsx";
 const Intro = () => {

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:wght@300..900&display=swap');
+@import "tailwindcss";
+@theme {
+  --font-header: 'Winky Sans', sans-serif;
+  --font-body: 'Roboto', sans-serif;
+  --color-primary: #FD6F00;
+  --shadow-primary: 1px 1px 8px 3px hsl(0, 0%, 60%);
+
+}
+
+/**/
+
+html{
+  scroll-behavior: smooth;
+ 
+}
+
